@@ -7,7 +7,6 @@ This is done as a simple school assignment for CZ3002 Advanced Software Engineer
 
 ## Code Example
 Login Page:\
-
 ![Screenshot](/img/login.JPG)
  
 Home Page:\
