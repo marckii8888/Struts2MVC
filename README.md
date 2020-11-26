@@ -6,10 +6,11 @@ This project is a simple web application using Sturts2 and applying the MVC fram
 This is done as a simple school assignment for CZ3002 Advanced Software Engineering course
 
 ## Code Example
-Login Page:
+Login Page:\
+
 ![Screenshot](/img/login.JPG)
  
-Home Page:
+Home Page:\
 ![Screenshot](/img/home.JPG)
 
 
